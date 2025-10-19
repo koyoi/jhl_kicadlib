@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1172CN8#PBF
+D LT1172CN8#PBF Buck/Boost Converter, 3.5A, Adjustable, 1.244  65 V, 115 kHz, 8-Pin, PDIP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU1/DSASFU10007640.pdf
+$ENDCMP
+#
+#End Doc Library
